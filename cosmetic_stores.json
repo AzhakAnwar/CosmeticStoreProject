@@ -1,0 +1,112 @@
+[
+	{
+		"name": "SchönHaut Kosmetik",
+		"rating": "9.6",
+		"address": [
+			"Seefeldstrasse 167 - 1 andar.",
+			" "
+		],
+		"phone": "+41763054088",
+		"website": "schonhautkosmetik.ch ",
+		"city": "Zürich"
+	},
+	{
+		"name": "Tina Beauty Style",
+		"rating": "9.4",
+		"address": [
+			"Saatlenstrasse 17",
+			" "
+		],
+		"phone": "0433215376",
+		"website": "tinabeauty.ch ",
+		"city": null
+	},
+	{
+		"name": "Cursos de Beleza e Estética Patrícia Nogueira",
+		"rating": "9.3",
+		"address": [
+			"Baumackerstrasse 41",
+			" "
+		],
+		"phone": "+41763054088",
+		"website": "schonhautkosmetik.ch ",
+		"city": null
+	},
+	{
+		"name": "Rada's Naildesign",
+		"rating": "9.1",
+		"address": [
+			"Albisriederstrasse 279",
+			" "
+		],
+		"phone": "+41 78 795 21 35",
+		"website": "nagel-enthaarung.ch ",
+		"city": null
+	},
+	{
+		"name": "Hürlimannbad & Spa Zürich",
+		"rating": "9",
+		"address": [
+			"Brandschenkestrasse 150",
+			" "
+		],
+		"phone": "044 205 96 50",
+		"website": "huerlimannbad.ch ",
+		"city": null
+	},
+	{
+		"name": "World Association of Nuad Thai & Spa",
+		"rating": "8.9",
+		"address": [
+			"Dachslernstrasse 139",
+			" "
+		],
+		"phone": "+41792388793",
+		"website": "+41792388793",
+		"city": null
+	},
+	{
+		"name": "Priscila Camilo Kosmetik & Holistic Therapies",
+		"rating": "8.9",
+		"address": [
+			"Tulpenstrasse 43",
+			" "
+		],
+		"phone": null,
+		"website": "Tulpenstrasse 43",
+		"city": null
+	},
+	{
+		"name": "Medkosmetik by Sandra Stillhard",
+		"rating": "8.8",
+		"address": [
+			"Forchstrasse 182",
+			" "
+		],
+		"phone": "+41796941315",
+		"website": "medkosmetik.ch ",
+		"city": null
+	},
+	{
+		"name": "Pretty and Pure",
+		"rating": "8.7",
+		"address": [
+			"Stampfenbachstrasse 153",
+			" "
+		],
+		"phone": "+41443703064",
+		"website": "prettyandpure.ch ",
+		"city": null
+	},
+	{
+		"name": "RundumSchönheit",
+		"rating": "8.7",
+		"address": [
+			"Ziegelhüttenweg 4",
+			" "
+		],
+		"phone": "+41796552617",
+		"website": "rundumschoenheit.ch ",
+		"city": null
+	}
+]
